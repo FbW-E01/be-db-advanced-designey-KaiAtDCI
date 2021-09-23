@@ -1,0 +1,26 @@
+{
+  "name": "be-db-advanced-designey-KaiAtDCI",
+  "description": "1. Install Draw.io OR use it in your browser     2. Save your results as an image into this repository     3. Design data tables for an app like Twitter         - What kind of data types would you have where you have             - User, Message, what else?          - What kind of functions would these types have?             - User can login, create tweet, what else?     4. Initialize a node app into this repository         - **Do not commit node_modules**         - Add mongoose as a dependancy         - Create at least one of your data table designs into a schema.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jest": "^27.2.1",
+    "mongoose": "^6.0.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-db-advanced-designey-KaiAtDCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-db-advanced-designey-KaiAtDCI/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-db-advanced-designey-KaiAtDCI#readme"
+}
